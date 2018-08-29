@@ -1,0 +1,26 @@
+{
+  "name": "express-first-steps",
+  "version": "1.0.0",
+  "description": "First steps with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WencesVillegasMarset/express-first-steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WencesVillegasMarset/express-first-steps/issues"
+  },
+  "homepage": "https://github.com/WencesVillegasMarset/express-first-steps#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
